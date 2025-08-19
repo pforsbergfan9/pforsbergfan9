@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pforsbergfan9
 - 👀 I’m interested in learning how to code, hockey and my kids.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on nothing at the moment.
 - 📫 How to reach me raines.joshua@gmail.com
 
 <!---
